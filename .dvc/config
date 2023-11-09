@@ -1,0 +1,6 @@
+[core]
+    remote = gd
+['remote "local_storage"']
+    url = ../Storate
+['remote "gd"']
+    url = gdrive://1xzL_YcqbxyUkfmuZGcm3PQO_jF9Idbxc
